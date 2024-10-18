@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML based hybrid College recommender system**
 
-- 🌱 I’m currently leanring web development**
+- 🌱 I’m currently learning web development**
 
 - 💬 Ask me about **Python and R**
 
