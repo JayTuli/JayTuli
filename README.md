@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML based hybrid College recommender system**
 
-- 🌱 I’m currently learning **GCP, Ensemble models and GAN's(Generative Adversarial Networks)**
+- 🌱 I’m currently leanring web development**
 
 - 💬 Ask me about **Python and R**
 
