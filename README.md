@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">Brushing up my skills in ML(machine learning)</h3>
 
-- 🔭 I’m currently working on **ML based hybrid College recommender system**
-
 - 🌱 I’m currently learning web development**
 
 - 💬 Ask me about **Python and R**
