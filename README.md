@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">Brushing up my skills in ML(machine learning)</h3>
+<h3 align="center">Brushing up my skills </h3>
 
-- 🌱 I’m currently learning web development**
+- 🌱 **
 
-- 💬 Ask me about **Python and R**
-
-- 📫 How to reach me **aaravtuli17@gmail.com**
+- 📫 How to reach me **aarav**
 
 - 📄 Know about my experiences [)
 
