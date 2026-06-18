@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
+<h1 align="center">Hi 👋, I'm Aarav</h1>
 <h3 align="center">Brushing up my skills </h3>
 
 - 🌱 **
