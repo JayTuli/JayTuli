@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarav</h1>
-<h3 align="center">Brushing up my skills </h3>
+<h3 align="center"> </h3>
 
 - 🌱 **
-
-- 📄 Know about my experiences [)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
